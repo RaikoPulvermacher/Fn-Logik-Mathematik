@@ -1,4 +1,4 @@
-# date02_Wurzel-Redundanz: Das Ende der Wurzel-Mathematik
+# datei02_Wurzel-Redundanz: Das Ende der Wurzel-Mathematik
 
 ## 1. Das Problem der Euler-Quadrierung
 In der klassischen Mathematik wird die Dimensionierung oft durch $x^2$ (Quadrierung) dargestellt. Um von dieser Fläche zurück auf die Basiseinheit (den Vektor) zu kommen, benötigt die Euler-Logik die **Wurzel-Operation** ($\sqrt{x}$).
