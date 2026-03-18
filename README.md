@@ -44,6 +44,24 @@ Diese Arbeit bezieht sich auf folgende Vorarbeiten des Autors:
 
 ---
 
+## Referenzen & Kontakt
+
+**Urheber:** Raiko Pulvermacher
+
+**E-Mail:** [Pulvermacher.Raiko@web.de](mailto:Pulvermacher.Raiko@web.de)
+
+**ORCID ID:** [0009-0003-9431-1001](https://orcid.org/0009-0003-9431-1001)
+
+**Open Science Framework (OSF):** [py42t](https://osf.io/py42t/)
+
+**X/Twitter:** [Raiko Pulvermacher](https://x.com/RaPulvermacher)
+
+**TikTok:** [Raiko Pulvermacher](https://www.tiktok.com/@raiko.pulvermacher)
+
+**Hashtags:** \#RaikoPulvermacher \#TdR \#Fnlogik
+
+---
+
 ## Lizenz / License
 
 Dieses Werk ist lizenziert unter der **Pulvermacher Open Research License (PORL) v1.0**.
