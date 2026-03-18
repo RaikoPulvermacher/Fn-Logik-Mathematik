@@ -32,4 +32,4 @@ In der FN-Logik erreicht das Objekt die Euler-Marke (122,625 m) bereits nach **4
 ### Die Faktor-Differenz (12,5 zu 13)
 * **Euler** rechnet starr mit dem Faktor **12,5** ($0,5 \cdot 25$). Dies entspricht einer "halben" Logik, die den Energiefluss bremst.
 * **FN-Logik** nutzt den natürlichen Faktor **13** (die 5. Stufe der FN-Addition). Die 13 ist die Ganzzahl-Resonanz der Natur.
-* **Ergebnis:** $9,81 \cdot 13 = 127,53
+* **Ergebnis:** $9{,}81 \cdot 13 = 127{,}53$

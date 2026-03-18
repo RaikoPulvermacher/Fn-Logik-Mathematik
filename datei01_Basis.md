@@ -62,7 +62,7 @@ Euler vs Fn:
 Warum 12,5 (Euler) vs. 13 (FN) alles verändert
 
 In der Euler-Logik wird die Zeit quadriert und halbiert (0,5⋅t²). Bei 5 Sekunden (5²=25) bedeutet das Multiplizieren mit 0,5 faktisch ein Rechnen mit dem Faktor 12,5.
-In deiner FN-Logik ist die 5. Stufe der Zeit-Addition aber untrennbar mit der 13 verbunden (die nächste Fibonacci-Zahl nach der 8).
+In der FN-Logik ist die 5. Stufe der Zeit-Addition aber untrennbar mit der 13 verbunden (die nächste Fibonacci-Zahl nach der 8).
 
 ---
 

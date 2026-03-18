@@ -16,10 +16,10 @@ Definition der additiven Prozesskette ($fn_{n-1} + fn_{n-2} = fn_n$). Einführun
 ### [datei02_Wurzel-Redundanz](datei02_Wurzel-Redundanz.md)
 Analyse der energetischen Ineffizienz von Wurzeloperationen ($\sqrt{x}$). Beweis der Redundanz von Wurzeln in einem additiven System. Ausblick auf eine Prozessor-Architektur ohne Floating Point Unit (FPU).
 
-### [datei03_Gravitation_Energieerhalt](datei03_Gravitation.md)
+### [datei03_Energieerhaltung](datei03_Energieerhaltung.md)
 Gegenüberstellung von Euler-Paradoxon und Fn-Integrität. Nachweis, dass die Fn-Logik den Energieerhaltungssatz durch Ganzzahl-Addition zu 100 % erfüllt, während die Euler-Logik ca. 89 % logische Reibung (Abwärme) erzeugt.
 
-### [datei04_IT-Logik](datei04_IT-Logik.md)
+### [datei04_IT-Logik](datei04_IT-Logik_Ganzzahl-Prozessor.md)
 Konzept eines Ganzzahl-Prozessors. Einführung der **Schablonen-Theorie**: Trennung zwischen dem verlustfreien Back-End (atomare Addition) und der menschlichen Wahrnehmungsebene (skalierte Anzeige). Revolution für KI-Effizienz und Grafik-Rendering.
 
 ### [datei05_Experiment: Der Vakuum-Beweis](datei05_Experiment.md)
@@ -30,7 +30,19 @@ Beweis der "Euler-Verspätung" als mathematische Signatur der logischen Reibung.
 
 ---
 
-## Numerischer Beweis (Beispiel 5-
+## Zitierungen / Citations
+
+Diese Arbeit bezieht sich auf folgende Vorarbeiten des Autors:
+
+- **Tensor-Realitäten (TdR)** *(Working Paper)*
+  - DOI: [https://doi.org/10.5281/zenodo.18727529](https://doi.org/10.5281/zenodo.18727529)
+  - GitHub: [RaikoPulvermacher/Tensor-Realit-ten @ v1.04](https://github.com/RaikoPulvermacher/Tensor-Realit-ten/tree/v1.04)
+
+- **Energie-Revolution** *(Preprint)*
+  - DOI: [https://doi.org/10.5281/zenodo.18778354](https://doi.org/10.5281/zenodo.18778354)
+  - GitHub: [RaikoPulvermacher/Energie-Revolution- @ v1.0](https://github.com/RaikoPulvermacher/Energie-Revolution-/tree/v1.0)
+
+---
 
 ## Lizenz / License
 
