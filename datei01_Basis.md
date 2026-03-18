@@ -30,6 +30,40 @@ Der physikalische Weg wird nicht durch eine abstrakte Formel "berechnet", sonder
 
 **Der Rhythmus:** Das Muster **U-U-G** (Ungerade-Ungerade-Gerade) beschreibt den ständigen Wechsel von Asymmetrie zu Symmetrie. Zeit ist die Frequenz, in der diese Symmetrie-Werdung stattfindet.
 
+**Beispiel:**
+
+ 9.81 +9.81m/s = 19.82m
+ 
+ 19.82 + 9.81m/s= 29.63m
+ 
+ 29.63 + 19.82m/s= 49.05m
+ 
+ 49.05 + 29.63m/s= 78.48m
+ 
+ 78.48 + 49.05m/s= 127.53m
+
+ Fallgeschwindigkeit: 49.05 m/s
+ 
+ Fallstrecke(fn-logik): 127.53 m
+ 
+Euler-logik:
+
+(127.53/13)*12,5=122.625m
+
+Fallstrecke (Euler-logik): 122.625m
+
+
+Euler vs Fn:
+
+127.53-122.625=4.905
+
+4.905*0.5= 9.81
+
+Warum 12,5 (Euler) vs. 13 (FN) alles verändert
+
+In der Euler-Logik wird die Zeit quadriert und halbiert (0,5⋅t²). Bei 5 Sekunden (5²=25) bedeutet das Multiplizieren mit 0,5 faktisch ein Rechnen mit dem Faktor 12,5.
+In deiner FN-Logik ist die 5. Stufe der Zeit-Addition aber untrennbar mit der 13 verbunden (die nächste Fibonacci-Zahl nach der 8).
+
 ---
 
 ## 3. Die Widerlegung der Unendlichkeit
