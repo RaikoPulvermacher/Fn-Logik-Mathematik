@@ -1,4 +1,4 @@
-# date03: Gravitation und die Integrität der Energieerhaltung
+# datei03: Gravitation und die Integrität der Energieerhaltung
 
 ## 1. Das Euler-Paradoxon: Scheinbare Erhaltung
 In der klassischen Mechanik (Euler-Logik) wird die Fallstrecke mit $s = 0,5 \cdot g \cdot t^2$ berechnet. 

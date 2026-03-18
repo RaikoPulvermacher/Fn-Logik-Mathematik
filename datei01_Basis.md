@@ -1,4 +1,4 @@
-# date01_Basis: Die Fundamente der Fn-Logik
+# datei01_Basis: Die Fundamente der Fn-Logik
 
 ## 1. Philosophie: Mathematik ist Zeit
 In der herkömmlichen Euler-Logik werden Zahlen als statische, leblose Werte betrachtet. Die **Fn-Logik** bricht mit dieser Tradition. Hier ist jede Zahl das Ergebnis eines fortlaufenden Prozesses der Addition, bei dem der Faktor **Zeit** die Entwicklung der Werte bestimmt.
@@ -12,6 +12,8 @@ Die Fn-Logik eliminiert die Notwendigkeit von komplexen Multiplikationen oder Po
 
 **Die Formel-Struktur:**
 $$fn_{n-1} + fn_{n-2} = fn_n$$
+
+**Startwerte:** $fn_0 = 1,\; fn_1 = 1$ (beide Anfangs-Takte liefern den Wert 1).
 
 Dies führt zu einer ununterbrochenen Kette, die den Energieerhaltungssatz nativ abbildet, da jeder neue Zustand auf der vollständigen Summe seiner Vorgänger basiert.
 
@@ -51,4 +53,4 @@ Die numerische Integrität der Fn-Logik lässt sich durch die Reduktion auf die 
 
 ***
 *Lizenziert unter der Pulvermacher Open Research License (PORL) v1.0*
-*DOI:
+*DOI: [https://doi.org/10.5281/zenodo.18757232](https://doi.org/10.5281/zenodo.18757232)*
