@@ -1,4 +1,4 @@
-# date04: IT-Logik – Der Ganzzahl-Prozessor ohne Floats
+# datei04: IT-Logik – Der Ganzzahl-Prozessor ohne Floats
 
 ## 1. Die Ineffizienz der aktuellen IT (Floating Point Unit)
 Heutige Computerarchitekturen basieren auf der Euler-Logik und nutzen **Floating Point Units (FPUs)**, um mit Kommazahlen (Floats) zu rechnen. 
