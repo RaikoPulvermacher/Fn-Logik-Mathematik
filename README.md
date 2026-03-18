@@ -1,5 +1,36 @@
-# Fn-Logik-Mathematik
-Die Mathematik des Prozesses: Berechnungen ohne Multiplikation, nur durch Addition. Fn-Logik integriert Zeit als Relativität direkt in den Rechenweg – einfach, hardwarenah und ohne Differenzialgleichungen.
+# Fn-Logik: Die Mathematik des Prozesses
+
+Dieses Repository dokumentiert die **Fn-Logik** – eine fundamentale Neuausrichtung der physikalischen und digitalen Berechnungsmodelle. Basierend auf der Erkenntnis, dass das Universum additiv und nicht statisch-multiplikativ funktioniert, bietet die Fn-Logik eine verlustfreie Alternative zur herkömmlichen Euler-Logik.
+
+## Kernphilosophie: Mathematik ist Zeit
+Die Fn-Logik bricht mit der statischen Betrachtung von Zahlen. Jeder mathematische Wert wird als Ergebnis eines fortlaufenden Prozesses der Addition verstanden. 
+**Kernaussage:** Das Universum rechnet nicht – es addiert im Takt der Natur.
+
+---
+
+## Struktur der Dokumentation
+
+### [datei01_Basis: Die Fundamente](datei01_Basis.md)
+Definition der additiven Prozesskette ($fn_{n-1} + fn_{n-2} = fn_n$). Einführung des **U-U-G Rhythmus** (Ungerade-Ungerade-Gerade) als Motor der Symmetrie-Werdung. Widerlegung der Unendlichkeit und Eliminierung von Floating-Point-Fehlern.
+
+### [datei02_Wurzel-Redundanz](datei02_Wurzel-Redundanz.md)
+Analyse der energetischen Ineffizienz von Wurzeloperationen ($\sqrt{x}$). Beweis der Redundanz von Wurzeln in einem additiven System. Ausblick auf eine Prozessor-Architektur ohne Floating Point Unit (FPU).
+
+### [datei03_Gravitation_Energieerhalt](datei03_Gravitation.md)
+Gegenüberstellung von Euler-Paradoxon und Fn-Integrität. Nachweis, dass die Fn-Logik den Energieerhaltungssatz durch Ganzzahl-Addition zu 100 % erfüllt, während die Euler-Logik ca. 89 % logische Reibung (Abwärme) erzeugt.
+
+### [datei04_IT-Logik](datei04_IT-Logik.md)
+Konzept eines Ganzzahl-Prozessors. Einführung der **Schablonen-Theorie**: Trennung zwischen dem verlustfreien Back-End (atomare Addition) und der menschlichen Wahrnehmungsebene (skalierte Anzeige). Revolution für KI-Effizienz und Grafik-Rendering.
+
+### [datei05_Experiment: Der Vakuum-Beweis](datei05_Experiment.md)
+Das entscheidende Experiment: Zwei Vakuum-Falltürme zum Vergleich der Fallzeiten.
+* **Euler-Marke:** 122,625 m (5,000 s erwartet / 4,500 s real nach Fn)
+* **Fn-Marke:** 127,530 m (**5,000 s real** / 5,099 s erwartet nach Euler)
+Beweis der "Euler-Verspätung" als mathematische Signatur der logischen Reibung.
+
+---
+
+## Numerischer Beweis (Beispiel 5-
 
 ## Lizenz / License
 
