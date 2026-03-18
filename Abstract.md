@@ -2,7 +2,7 @@ Abstract: Die FN-Logik – Eine Neudefinition der physikalischen und digitalen R
 
 Autor: Destiny Raiko Pulvermacher
 
-Bezugsdokumente: TdR (Zenodo) | Energie-Revolution (Zenodo)
+Bezugsdokumente: [TdR – Working Paper (Zenodo)](https://doi.org/10.5281/zenodo.18727529) | [Energie-Revolution – Preprint (Zenodo)](https://doi.org/10.5281/zenodo.18778354)
 
 1. Problemstellung (Die Euler-Krise)
 
