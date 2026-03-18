@@ -30,39 +30,37 @@ Der physikalische Weg wird nicht durch eine abstrakte Formel "berechnet", sonder
 
 **Der Rhythmus:** Das Muster **U-U-G** (Ungerade-Ungerade-Gerade) beschreibt den ständigen Wechsel von Asymmetrie zu Symmetrie. Zeit ist die Frequenz, in der diese Symmetrie-Werdung stattfindet.
 
-**Beispiel:**
+**Beispiel: Freier Fall für 5 Sekunden (g = 9,81 m/s²)**
 
- 9.81 +9.81m/s = 19.62m
- 
- 19.62 + 9.81m/s= 29.43m
- 
- 29.43 + 19.82m/s= 49.05m
- 
- 49.05 + 29.63m/s= 78.48m
- 
- 78.48 + 49.05m/s= 127.53m
+Die Fn-Logik berechnet die Fallstrecke ohne Quadrierung – nur durch fortlaufende Addition nach dem Fibonacci-Muster, wobei der Startwert $g = 9{,}81$ beträgt:
 
- Fallgeschwindigkeit: 49.05 m/s
- 
- Fallstrecke(fn-logik): 127.53 m
- 
-Euler-logik:
+| Takt | Addition | Ergebnis |
+| :--- | :--- | :--- |
+| 1 | $9{,}81 + 9{,}81$ | $19{,}62\;\text{m}$ |
+| 2 | $19{,}62 + 9{,}81$ | $29{,}43\;\text{m}$ |
+| 3 | $29{,}43 + 19{,}62$ | $49{,}05\;\text{m}$ |
+| 4 | $49{,}05 + 29{,}43$ | $78{,}48\;\text{m}$ |
+| 5 | $78{,}48 + 49{,}05$ | $127{,}53\;\text{m}$ |
 
-(127.53/13)*12,5=122.625m
+- **Fallgeschwindigkeit (Fn):** $5 \times 9{,}81 = 49{,}05\;\text{m/s}$
+- **Fallstrecke (Fn-Logik):** $13 \times 9{,}81 = 127{,}53\;\text{m}$ *(Fibonacci-Faktor 13)*
 
-Fallstrecke (Euler-logik): 122.625m
+**Vergleich mit der Euler-Formel** ($s = 0{,}5 \cdot g \cdot t^2$):
 
+$$\frac{127{,}53}{13} \times 12{,}5 = 9{,}81 \times 12{,}5 = 122{,}625\;\text{m}$$
 
-Euler vs Fn:
+- **Fallstrecke (Euler-Logik):** $122{,}625\;\text{m}$
 
-127.53-122.625=4.905
+**Euler vs. Fn:**
 
-4.905*0.5= 9.81
+$$127{,}53 - 122{,}625 = 4{,}905\;\text{m}$$
 
-Warum 12,5 (Euler) vs. 13 (FN) alles verändert
+$$4{,}905 \times 2 = 9{,}81$$
 
-In der Euler-Logik wird die Zeit quadriert und halbiert (0,5⋅t²). Bei 5 Sekunden (5²=25) bedeutet das Multiplizieren mit 0,5 faktisch ein Rechnen mit dem Faktor 12,5.
-In deiner FN-Logik ist die 5. Stufe der Zeit-Addition aber untrennbar mit der 13 verbunden (die nächste Fibonacci-Zahl nach der 8).
+**Warum 12,5 (Euler) vs. 13 (Fn) alles verändert:**
+
+In der Euler-Logik wird die Zeit quadriert und halbiert ($0{,}5 \cdot t^2$). Bei 5 Sekunden ($5^2 = 25$) bedeutet das Multiplizieren mit 0,5 faktisch ein Rechnen mit dem Faktor **12,5**.
+In der Fn-Logik ist die 5. Stufe der Zeit-Addition untrennbar mit der **13** verbunden – der nächsten Fibonacci-Zahl nach der 8.
 
 ---
 
