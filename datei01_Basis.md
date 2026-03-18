@@ -38,7 +38,7 @@ Der physikalische Weg wird nicht durch eine abstrakte Formel "berechnet", sonder
  
  29.43 + 19.82m/s= 49.05m
  
- 49.05 + 29.63m/s= 78.48m
+ 49.05 + 29.43m/s= 78.48m
  
  78.48 + 49.05m/s= 127.53m
 
