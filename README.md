@@ -1,5 +1,8 @@
 # Fn-Logik: Die Mathematik des Prozesses
 
+> 📄 **[Gesamtdokument als PDF herunterladen / Download full paper as PDF](https://github.com/RaikoPulvermacher/Fn-Logik-Mathematik/raw/main/Fn-Logik-Mathematik.pdf)**
+> *(Wissenschaftliches Dokument mit Abstract, Kapiteln, Zitierungen & vollständiger PORL-Lizenz)*
+
 Dieses Repository dokumentiert die **Fn-Logik** – eine fundamentale Neuausrichtung der physikalischen und digitalen Berechnungsmodelle. Basierend auf der Erkenntnis, dass das Universum additiv und nicht statisch-multiplikativ funktioniert, bietet die Fn-Logik eine verlustfreie Alternative zur herkömmlichen Euler-Logik.
 
 ## Kernphilosophie: Mathematik ist Zeit
